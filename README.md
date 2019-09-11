@@ -1,7 +1,9 @@
 # Python data analysis: 
 
-PyBank: analysis on monthly Profit/Loss data; 
-         PyPoll: analysis on election result
+PyBank: analysis on monthly Profit/Loss data
+
+PyPoll: analysis on election result
+
 
 ## Background
 
