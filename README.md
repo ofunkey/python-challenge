@@ -1,11 +1,11 @@
 # Python data analysis: 
 
-PyBank: analysis on monthly Profit/Loss data
+PyBank: Analysis on monthly Profit/Loss data
 
-PyPoll: analysis on election result
+PyPoll: Analysis on election result
 
 
 ## Background
 
-In this project, I create a Python script for analyzing the financial records of your company , PyBank
-and a Python script for analyzing the election result
+In this project, I created a Python script for analyzing the financial records of your company, PyBank
+and another Python script for analyzing the election result
