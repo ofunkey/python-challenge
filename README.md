@@ -26,7 +26,7 @@ In this work, I created python scripts for analyzing the financial records of Py
 
   * The greatest decrease in losses (date and amount) over the entire period
 
-  ![Financial Analysis](https://github.com/ofunkey/python-challenge/blob/master/PyBank/Output/budget_data.txt)
+  [Financial_Analysis](https://github.com/ofunkey/python-challenge/blob/master/PyBank/Output/budget_data.txt)
 
   ```text
   Financial Analysis
@@ -41,7 +41,7 @@ In this work, I created python scripts for analyzing the financial records of Py
 
 ## PyPoll
 
-![Vote-Counting](Images/Vote_counting.png)
+![Vote_Counting](Images/Vote_counting.png)
 
 * In this work, I created a Python script for analyzing the votes of election result of PyPoll.
 
@@ -59,7 +59,7 @@ In this work, I created python scripts for analyzing the financial records of Py
 
   * The winner of the election based on popular vote.
 
- ![Election Results](https://github.com/ofunkey/python-challenge/blob/master/PyPoll/Output/election_data.txt)
+ [Election_Results](https://github.com/ofunkey/python-challenge/blob/master/PyPoll/Output/election_data.txt)
 
   ```text
   Election Results
